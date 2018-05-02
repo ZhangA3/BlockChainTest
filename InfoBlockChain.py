@@ -22,6 +22,9 @@ class InfoBlockChain(object):
 
 
 
+
+
+
     def register_account(self, identifier):
         """
         THIS IS DUMMY RULE NOW!!!
